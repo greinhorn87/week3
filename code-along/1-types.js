@@ -24,7 +24,8 @@ let dinner = "tacos"
 let quantity = 5 
 let hasGuac = true
 
-let output = dinner 
+let output
+output = "ordering" + dinner + "tonight"
 
 
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
