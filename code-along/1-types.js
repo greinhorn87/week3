@@ -3,7 +3,8 @@
 // 🔥🔥🔥 YOUR CODE GOES HERE 🔥🔥🔥
 console.log("hello, world")
 
-let greeting = "hello G!"
+let firstName="G!!!"
+let greeting = "yo yo yo " + firstName
 console.log(greeting)
 let output=greeting
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
