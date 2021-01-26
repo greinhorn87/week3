@@ -20,6 +20,13 @@ console.log(z)
  let output = z 
 
 
+let dinner = "tacos"
+let quantity = 5 
+let hasGuac = true
+
+let output = dinner 
+
+
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 
 /*
