@@ -3,8 +3,9 @@
 // 🔥🔥🔥 YOUR CODE GOES HERE 🔥🔥🔥
 console.log("hello, world")
 
-let output
-output="hello, garrett"
+let greeting = "hello G!"
+console.log(greeting)
+let output=greeting
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 
 /*
