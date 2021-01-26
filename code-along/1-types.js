@@ -7,6 +7,15 @@ let firstName="G!!!"
 let greeting = "yo yo yo " + firstName
 console.log(greeting)
 let output=greeting
+
+
+let x = 3
+console.log(x)
+
+let y = 4
+console.log(y)
+
+
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 
 /*
