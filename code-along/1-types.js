@@ -16,7 +16,7 @@ console.log(y)
 
 
 let z = x + y
-console.log (z)
+console.log(z)
 
 Let output = z
 
