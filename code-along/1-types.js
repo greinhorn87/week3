@@ -11,7 +11,7 @@ console.log(greeting)
 let x = 3
 console.log(x)
 
-let y = 4
+let y = 6
 console.log(y)
 
 
