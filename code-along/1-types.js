@@ -17,7 +17,7 @@ console.log(y)
 
 let z = x + y
 console.log(z)
- let output = z 
+
 
 
 let dinner = "tacos"
