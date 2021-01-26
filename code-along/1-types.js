@@ -17,8 +17,7 @@ console.log(y)
 
 let z = x + y
 console.log(z)
-
-Let output = z
+ let output = z 
 
 
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
