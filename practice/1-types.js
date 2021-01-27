@@ -7,6 +7,12 @@ function getRandomInt(max) {
 function pageLoad() {
   // 👇 YOUR CODE BEGINS HERE. DON'T CHANGE ANY OTHER CODE. 👇
 
+
+Let die1 = 2
+Let die2 = 6
+
+Let total = die1 + die2 
+  
   // 🔥 YOUR CODE GOES HERE. 🔥
   // Try setting two variables – die1 and die2
   // Also set a third variable - total, which sums the two die values
